@@ -13,4 +13,4 @@ Currently I’m working towards improving my skills with:
 I especially like working with JavaScript, and enjoy finding new ways to improve the way I write code.
 
 ## Previous projects :bulb:
-Visit my [portfolio page](https://idyllic-wisp-467248.netlify.app) or browse my [GitHub](https://github.com/jonaslod)to have a look at some of my previous projects.
+Visit my [portfolio page](https://idyllic-wisp-467248.netlify.app) or browse my [GitHub](https://github.com/jonaslod) to have a look at some of my previous projects.
