@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there :duck:
+My name is Jonas. I am a student working towards becoming a web developer.
 
-<!--
-**jonaslod/jonaslod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m currently learning :thought_balloon:
+Currently I’m working towards improving my skills with:
+- Web design
+- HTML
+- CSS
+- JavaScript
+- APIs
 
-Here are some ideas to get you started:
+## I’m passionate about :hourglass_flowing_sand:
+I especially like working with JavaScript, and enjoy finding new ways to improve the way I write code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previous projects :bulb:
+Visit my [portfolio page](https://idyllic-wisp-467248.netlify.app) or browse my [GitHub](https://github.com/jonaslod)to have a look at some of my previous projects.
