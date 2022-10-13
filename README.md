@@ -14,3 +14,6 @@ I especially like working with JavaScript, and enjoy finding new ways to improve
 
 ## Previous projects :bulb:
 Visit my [portfolio page](https://idyllic-wisp-467248.netlify.app) or browse my [GitHub](https://github.com/jonaslod) to have a look at some of my previous projects.
+
+## Contact
+[My Twitter profile](https://twitter.com/jonaslodcontact)
