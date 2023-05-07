@@ -1,4 +1,6 @@
-# Hello there :duck:
+# Outdated
+
+## Hello there :duck:
 My name is Jonas. I am a student working towards becoming a web developer.
 
 ## I’m currently learning :thought_balloon:
@@ -13,7 +15,7 @@ Currently I’m working towards improving my skills with:
 I especially like working with JavaScript, and enjoy finding new ways to improve the way I write code.
 
 ## Previous projects :bulb:
-Visit my [portfolio page](https://jonaslod.dev/) or browse my [GitHub](https://github.com/jonaslod) to have a look at some of my previous projects.
+Outdated
 
 ## Contact
-[My Twitter profile](https://twitter.com/jonaslodcontact)
+Outdated
